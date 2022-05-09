@@ -2,7 +2,7 @@ Ao invés de usar a linha toda de comando:
 g++ JogoForca.cpp -o JogoForca.out -std=c++11
 bote o Makefile na mesma pasta onde se encontra o arquivos JogoForca.cpp e JogoForca.out
 e use o seguinte comando no prompt (para compilar):
-mingw32-make
+mingw32-make JogoForca
 no linux é apenas o comando: 
 make
 Depois basta startar o jogo com o comando:
